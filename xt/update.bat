@@ -1,0 +1,1 @@
+Xcopy . c:\Users\ThomasBitskyJr\.premake\ /E /H /C /I /Y
